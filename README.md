@@ -1,8 +1,9 @@
 ## Yooyyaa, Baga Nagaan Dhuftan!
 <a href="https://jirugutema.netlify.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F700&background=3C8BFF00&random=false&width=435&lines=Hi+there+👋,+I'm+Jiru;Welcome+to+my+Github+account!;Feel+free+to+contact+me;@linkedin.com/in/jiru-gutema/;" alt="Typing SVG" /></a>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks-again!-->Jethior)](https://git.io/typing-svg)
 
-Here are some info you need to know about me:
+# Here are some info you need to know about me:
 
 - 🔭 I’m currently Living in Ethiopia.
 - 🌱 I’m currently learning Software Engineering At Addis Ababa University.

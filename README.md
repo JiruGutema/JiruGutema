@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A-Software-Engineer-@AAU-Ethiopia)](https://git.io/typing-svg)
 
-# Here are some info you need to know about me:
+### Here are some info you need to know about me:
 
 - 🔭 I’m currently Living in Ethiopia.
 - 🌱 I’m currently learning Software Engineering At Addis Ababa University.

@@ -1,4 +1,7 @@
 ## Hi there 👋, I am Jiru, and Welcome to my Github account
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F700&background=3C8BFF00&random=false&width=435&lines=Thanks+for+using+my+Github+;feel+free+to+contact+me+;I'm+Jiru,+hi;Software%3A+Engineer" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks-again!-hava-a-nice-time!)](https://git.io/typing-svg)
 Here are some info you need to know about me:
 
 - 🔭 I’m currently Living in Ethiopia.

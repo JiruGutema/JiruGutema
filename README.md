@@ -1,4 +1,4 @@
-## Yooyyaa, Baga Nagaan Dhuftan!
+
 <a href="https://jirugutema.netlify.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F700&background=3C8BFF00&random=false&width=435&lines=Hi+there+👋,+I'm+Jiru;Welcome+to+my+Github+account!;Feel+free+to+contact+me;@linkedin.com/in/jiru-gutema/;" alt="Welcome!" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+Software+Engineer+@AAU-Ethiopia)](https://jirugutema.netlify.app)

@@ -11,10 +11,10 @@
 - 🤔 I’m seeking help with Coding, ideas, Ideas, and Collaboration.
 - 💬 Ask me about Coding, Software related issues.
 - 📫 How to reach me:
--       [LinkedIn](https://www.linkedin.com/in/jiru-gutema/)
--       [X](https://www.x.com/JiruGutema)
--       [Email](jethior1@gmail.com)
--       [Telegram](https://t.me/@Jethior)
+        [LinkedIn](https://www.linkedin.com/in/jiru-gutema/)
+        [X](https://www.x.com/JiruGutema)
+        [Email](jethior1@gmail.com)
+        [Telegram](https://t.me/@Jethior)
 
 
 

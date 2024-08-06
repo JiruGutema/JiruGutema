@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate in the world of Technology.
 - 🤔 I’m seeking help with Coding, ideas, Ideas, and Collaboration.
 - 💬 Ask me about Coding, Software related issues.
-- 📫 How to reach me:
+- 📫 How to reach me:<br>
         [LinkedIn](https://www.linkedin.com/in/jiru-gutema/) <br>
         [X](https://www.x.com/JiruGutema)<br>
         [Email](jethior1@gmail.com)<br>

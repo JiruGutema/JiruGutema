@@ -94,7 +94,7 @@ I am Jiru Gutema, a passionate software engineer and developer. I am currently s
 ## 📂 Top Projects
 
 - [Mayors Office Website](https://jirugutema.github.io/mayors_office/): We build this project for Addis Ababa Mayors Office, Not in use yet.
-- [Tooran](tooran-documentation.vercel.app): A modern to do list I created using flutter. I want you to try it out.
+- [Tooran](https://tooran-documentation.vercel.app): A modern to do list I created using flutter. I want you to try it out.
 - [House Rental](https://github.com/JiruGutema/House_Rental_and_Sell_Management_System): House rental platform.
 - [Restaurant Ordering](https://github.com/JiruGutema/Restaurant_Ordering_System_2024_25): Restaurant Ordering and managaing system. Typescript and nestjs was used.
 - [eCommerce](https://github.com/JiruGutema/eCommerce): This was my first web project I launched 😊.

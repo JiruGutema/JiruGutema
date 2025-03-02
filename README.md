@@ -7,8 +7,8 @@
 
 ### About Me:
 
-<h6>
-I am Jiru Gutema, a passionate software engineer and developer. I am currently studying Software Engineering at Addis Ababa University. I am eager to collaborate and contribute to the world of technology.</h6>
+<p>
+I am Jiru Gutema, a passionate software engineer and developer. I am currently studying Software Engineering at Addis Ababa University. I am eager to collaborate and contribute to the world of technology.</p>
 
 - 📫 **Reach me at:** <br/> <br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiru-gutema/) <br/> [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/JiruGutema) <br/> [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jethior1@gmail.com) <br/> [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Jethior)
 

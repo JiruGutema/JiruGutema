@@ -1,10 +1,11 @@
+![](https://komarev.com/ghpvc/?username=jirugutema)
+
 <h1 align="center">👋 Hello, I'm Jiru Gutema!</h1>
 
 <p align="center">
         <img src="https://img.shields.io/badge/Location-Ethiopia-blue" alt="Location">
         <img src="https://img.shields.io/badge/Studying-Software%20Engineering-brightgreen" alt="Studying">
         
-![](https://komarev.com/ghpvc/?username=jirugutema)
 </p>
 
 

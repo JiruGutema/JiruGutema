@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Jiru Gutema!</h1>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
 
 <p align="center">
         <img src="https://img.shields.io/badge/Location-Ethiopia-blue" alt="Location">
@@ -107,3 +107,4 @@ I am Jiru Gutema, a passionate software engineer and developer. I am currently s
 
 - Email: [jirudagutema@gmail.com](mailto:jirudagutema@gmail.com)
 - Portfolio: [Portfolio](jirugutema.netlify.app)
+- ![](https://komarev.com/ghpvc/?username=jirugutema)

@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hello, I'm Jiru Gutema!</h1>
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <p align="center">
         <img src="https://img.shields.io/badge/Location-Ethiopia-blue" alt="Location">
         <img src="https://img.shields.io/badge/Studying-Software%20Engineering-brightgreen" alt="Studying">
+        
 </p>
 
 ### About Me:

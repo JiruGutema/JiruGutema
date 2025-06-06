@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hello, I'm Jiru Gutema!</h1>
 
-
 <p align="center">
         <img src="https://img.shields.io/badge/Location-Ethiopia-blue" alt="Location">
         <img src="https://img.shields.io/badge/Studying-Software%20Engineering-brightgreen" alt="Studying">
         
+![](https://komarev.com/ghpvc/?username=jirugutema)
 </p>
+
 
 ### About Me:
 
@@ -107,4 +108,3 @@ I am Jiru Gutema, a passionate software engineer and developer. I am currently s
 
 - Email: [jirudagutema@gmail.com](mailto:jirudagutema@gmail.com)
 - Portfolio: [Portfolio](jirugutema.netlify.app)
-- ![](https://komarev.com/ghpvc/?username=jirugutema)

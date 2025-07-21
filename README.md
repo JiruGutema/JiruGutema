@@ -49,7 +49,7 @@ I am Jiru Gutema, a passionate software engineer and developer. I am currently s
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
         </a>
          <a href="https://www.postgress.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgres-original.svg" alt="postgres" width="40" height="40"/>
+                <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" width="40" height="40"/>
         </a>
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
                 <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="40" height="40"/>

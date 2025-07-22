@@ -67,14 +67,7 @@ I am Jiru Gutema, a passionate software engineer and developer. I am currently s
 
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=JiruGutema&show_icons=true&theme=radical" alt="Jiru's GitHub stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiruGutema&layout=compact&theme=radical" alt="Top Languages">
 </p>
-
-### 🏆 Achievements:
-
-🥇 **cyber Talent Programme Participant:** Cycber Talent at INSA Ethiopia
-🎓 **Professional Certified Linux Profession:** Certified Linux and Network from Cisco Networking academy
-💻 **Contributor:**
 
 - Contributed to [File incryption](https://github.com/awahidanon/file-encryption-)
 - Contributed to [React-Next-Folder-Creator](https://github.com/JiruGutema/react-next_folder)

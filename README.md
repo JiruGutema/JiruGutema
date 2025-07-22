@@ -69,9 +69,6 @@ I am Jiru Gutema, a passionate software engineer and developer. I am currently s
         <img src="https://github-readme-stats.vercel.app/api?username=JiruGutema&show_icons=true&theme=radical" alt="Jiru's GitHub stats">
 </p>
 
-- Contributed to [File incryption](https://github.com/awahidanon/file-encryption-)
-- Contributed to [React-Next-Folder-Creator](https://github.com/JiruGutema/react-next_folder)
-
 ## 📂 Top Projects
 
 - [Mayors Office Website](https://jirugutema.github.io/mayors_office/): We build this project for Addis Ababa Mayors Office, Not in use yet.

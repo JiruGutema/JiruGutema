@@ -65,7 +65,7 @@ I am Jiru Gutema, a passionate software engineer and developer. I am currently s
 
 ### 📈 GitHub Stats:
 
-<p align="center">
+<p>
         <img src="https://github-readme-stats.vercel.app/api?username=JiruGutema&show_icons=true&theme=radical" alt="Jiru's GitHub stats">
 </p>
 

@@ -17,49 +17,23 @@ I am Jiru Gutema, a passionate software engineer and developer. I am currently s
 
 ### 🛠️ Skills and Tools:
 
-<p align="center">
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-        </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-        </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-        </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        </a>
-        <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-        </a>
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
-        </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-        </a>
-         <a href="https://www.postgress.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" width="40" height="40"/>
-        </a>
-        <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-                <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="40" height="40"/>
-        </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-</a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-</a>
+Here's the updated **Skills and Tools** section with categories displayed **side by side in Markdown table format**, making it compact and more readable:
+
+---
+
+### 🛠️ Skills and Tools
+
+| **Languages** | **Frontend** | **Backend** | **Databases** | **Tools & Others** |
+| ------------- | ------------ | ----------- | ------------- | ------------------ |
+| Java          | HTML/CSS     | Node.js     | MySQL         | Git & GitHub       |
+| JavaScript    | JavaScript   | Express.js  | PostgreSQL    | Linux (Ubuntu)     |
+| Python        | React.js     | NestJS      | MongoDB       | REST APIs          |
+| Dart          | Flutter      |             |               | Prisma ORM         |
+
+---
+
+Let me know if you’d like to add icons, links, or an animated version using HTML for your GitHub README.
+
 
 </p>
 

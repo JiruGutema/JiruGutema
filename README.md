@@ -15,25 +15,16 @@ I am Jiru Gutema, a passionate software engineer and developer. I am currently s
 
 - 📫 **Reach me at:** <br/> <br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiru-gutema/) [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/JiruGutema) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jirudagutema@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Jethior)
 
-### 🛠️ Skills and Tools:
-
-Here's the updated **Skills and Tools** section with categories displayed **side by side in Markdown table format**, making it compact and more readable:
-
----
-
 ### 🛠️ Skills and Tools
 
 | **Languages** | **Frontend** | **Backend** | **Databases** | **Tools & Others** |
 | ------------- | ------------ | ----------- | ------------- | ------------------ |
-| Java          | HTML/CSS     | Node.js     | MySQL         | Git & GitHub       |
-| JavaScript    | JavaScript   | Express.js  | PostgreSQL    | Linux (Ubuntu)     |
-| Python        | React.js     | NestJS      | MongoDB       | REST APIs          |
+| JavaScript    | Html/css     | Node.js     | MySQL         | Git & GitHub       |
+| Python        | Nextjs       | Express.js  | PostgreSQL    | Linux (Ubuntu)     |
+| Java          | React.js     | NestJS      | MongoDB       | Postman            |
 | Dart          | Flutter      |             |               | Prisma ORM         |
 
 ---
-
-Let me know if you’d like to add icons, links, or an animated version using HTML for your GitHub README.
-
 
 </p>
 

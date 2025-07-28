@@ -82,4 +82,4 @@ I am Jiru Gutema, a passionate software engineer and developer. I am currently s
 ## 📫 Contact
 
 - Email: [jirudagutema@gmail.com](mailto:jirudagutema@gmail.com)
-- Portfolio: [Portfolio](https://jirugutema.netlify.app)
+- Portfolio: [Portfolio](https://jirugutema.vercel.app)

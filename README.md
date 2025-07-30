@@ -21,9 +21,9 @@ I am Jiru Gutema, a passionate software engineer and fullstack developer. I am c
 | **Languages** | **Frontend** | **Backend** | **Databases** | **Tools & Others** | **Cloud & Services** |
 | ------------- | ------------ | ----------- | ------------- | ------------------ | -------------------- |
 | JavaScript    | HTML/CSS     | Node.js     | MySQL         | Git & GitHub       | Vercel               |
-| Python        | Next.js      | Express.js  | PostgreSQL    | Linux              | Render               |
-| Java          | React.js     | NestJS      | MongoDB       | Postman            | Cloudinary           |
-| Dart          | Flutter      |             |               | Prisma ORM         | AWS S3, Neon, Others |
+| Go            | Next.js      | Express.js  | PostgreSQL    | Linux              | Render               |
+| Python        | React.js     | NestJS      | MongoDB       | Postman            | Cloudinary           |
+| Java          | Flutter      |             |               | Prisma ORM         | AWS S3, Neon, Others |
 
 </p>
 

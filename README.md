@@ -34,14 +34,7 @@ I am Jiru Gutema, a passionate software engineer and fullstack developer. I am c
 </p>
 
 ## Top Projects
-
-- [Mayors Office Website](https://jirugutema.github.io/mayors_office/): We build this project for Addis Ababa Mayors Office, Not in use yet.
-- [Tooran](https://tooran-documentation.vercel.app/): A modern to do list I created using flutter. I want you to try it out.
-- [House Rental](https://github.com/JiruGutema/House_Rental_and_Sell_Management_System): House rental platform.
-- [Restaurant Ordering](https://github.com/JiruGutema/Restaurant_Ordering_System_2024_25): Restaurant Ordering and managaing system. Typescript and nestjs was used.
-- [eCommerce](https://github.com/JiruGutema/eCommerce): This was my first web project I launched 😊.
-- [jirenintelli](https://jirenintelli.vercel.app/): mini chatbot based on a gemini api.
-- [Netflix clone](https://github.com/JiruGutema/Netflix): Netflix clone. Reactjs was used in this project
+- **For selected projects from my work, kindly visit [https://jirugutema.vercel.app/projects](https://jirugutema.vercel.app/projects)**
 
 ## Contact
 

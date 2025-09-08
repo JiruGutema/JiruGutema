@@ -34,7 +34,13 @@ I am Jiru Gutema, a passionate software engineer and fullstack developer. I am c
 </p>
 
 ## Top Projects
-- **For selected projects from my work, kindly visit [https://jirugutema.vercel.app/projects](https://jirugutema.vercel.app/projects)**
+- [Email Craft](https://github.com/jirugutema/Email-Craft)- Styled Email Composer App. you can log into your account and then send stunning and styled html templates as an email
+- [Swagger-HTML](https://github.com/jirugutema/html-swagger)- A npm package that lets you to export your swagger docs in a standalone html file so that you can share it with your team easily
+- [Hide Youtube Shorts](https://addons.mozilla.org/en-US/firefox/addon/hide-youtube-short/)- A firefox extension that completly removes shorts from youtube page so that you can focus by eleminating distractions
+- [Page Marker](https://addons.mozilla.org/en-US/firefox/addon/draw-and-mark-a-webpage/)- A firefox extension that lets you to write and draw on a webpage
+- [Tooran](https://tooran-documentation.vercel.app/)- A Comprehensive Task manager app built with Flutter
+
+- **For more selected projects from my work, kindly visit [https://jirugutema.vercel.app/projects](https://jirugutema.vercel.app/projects)**
 
 ## Contact
 

@@ -25,13 +25,7 @@ I am Jiru Gutema, a passionate software engineer and fullstack developer. I am c
 | Python        | React.js     | NestJS      | MongoDB       | Postman            | Cloudinary           |
 | Java          | Flutter      |             |               | Prisma ORM         | AWS S3, Neon, Others |
 
-</p>
 
-### GitHub Stats:
-
-<p>
-        <img src="https://github-readme-stats.vercel.app/api?username=JiruGutema&show_icons=true&theme=radical" alt="Jiru's GitHub stats">
-</p>
 
 ## Top Projects
 
